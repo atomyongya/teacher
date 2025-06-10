@@ -1,0 +1,19 @@
+name: teacher
+description: "A Flutter package that provides step-by-step instructions to guide users (In App Ttutorial)."
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: ^3.8.0
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
